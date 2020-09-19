@@ -17,7 +17,7 @@ If it runs with larger initial population, it works better.
 We may give a list of parts which should be in the partition. For this case, there is no garantee that there is such a partition in general.
 
 Policy network (actor) is trained using TD3 alorithm and a trained agent (test_policy) is included.
-I use TD3 paper's authors code from
+Fro training, I use the code based on TD3 paper's authors code from
 https://github.com/sfujim/TD3/blob/master/TD3.py
 
 
