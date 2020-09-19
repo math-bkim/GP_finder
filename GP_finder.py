@@ -3,7 +3,7 @@
 """
 Created on Fri Sep 18 18:56:40 2020
 
-@author: byungchankim
+@author: bkim
 """
 
 import math, random, time
