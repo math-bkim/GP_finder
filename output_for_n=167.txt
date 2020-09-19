@@ -1,0 +1,33 @@
+
+              Target number  : 167
+              desired parts  : [12, 15]
+              Initial population : 2.0 k
+              Initial exploration_rate : 0.10
+              Initial best candidate :
+              [12, 15, 38, 2, 10, 10, 17, 27, 36] 
+              Initial fitness :  999.963
+              
+1-th generation
+ best candidate : [12, 15, 38, 2, 5, 14, 31, 50],  
+                          its fitness : 999.998
+                          its weight : 167
+                          its reciprocal sum : 412301/412300
+                          
+exploration rate is now 0.10
+6-th generation
+ best candidate : [12, 15, 20, 2, 10, 42, 10, 21, 35],  
+                          its fitness : 1000.000
+                          its weight : 167
+                          its reciprocal sum : 1
+                          
+exploration rate is now 0.10
+successful
+
+                      A desired partition is found at 6-th generation
+                      found partition is
+                      [42, 35, 21, 20, 15, 12, 10, 10, 2]
+                      weight : 167
+                      reciprocal sum of parts : 1
+                          
+                      
+done.

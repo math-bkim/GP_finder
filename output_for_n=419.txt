@@ -1,0 +1,36 @@
+
+              Target number  : 419
+              desired parts  : []
+              Initial population : 5.0 k
+              Initial exploration_rate : 0.10
+              Initial best candidate :
+              [287, 14, 4, 2, 18, 18, 22, 54] 
+              Initial fitness :  999.998
+              
+7-th generation
+ best candidate : [3, 119, 77, 4, 93, 5, 12, 20, 30, 56],  
+                          its fitness : 1000.000
+                          its weight : 419
+                          its reciprocal sum : 4869481/4869480
+                          
+exploration rate is now 0.10
+exploration_rate is now 0.15
+exploration_rate is now 0.20
+exploration_rate is now 0.25
+100-th generation
+ best candidate : [96, 288, 8, 2, 8, 9, 8],  
+                          its fitness : 1000.000
+                          its weight : 419
+                          its reciprocal sum : 1
+                          
+exploration rate is now 0.10
+successful
+
+                      A desired partition is found at 100-th generation
+                      found partition is
+                      [288, 96, 9, 8, 8, 8, 2]
+                      weight : 419
+                      reciprocal sum of parts : 1
+                          
+                      
+done.

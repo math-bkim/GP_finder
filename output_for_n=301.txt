@@ -1,0 +1,33 @@
+
+              Target number  : 301
+              desired parts  : []
+              Initial population : 5.0 k
+              Initial exploration_rate : 0.10
+              Initial best candidate :
+              [180, 13, 3, 5, 4, 13, 25, 58] 
+              Initial fitness :  999.981
+              
+1-th generation
+ best candidate : [172, 26, 6, 5, 3, 9, 13, 22, 45],  
+                          its fitness : 999.989
+                          its weight : 301
+                          its reciprocal sum : 73787/73788
+                          
+exploration rate is now 0.10
+2-th generation
+ best candidate : [6, 168, 2, 7, 12, 20, 30, 56],  
+                          its fitness : 1000.000
+                          its weight : 301
+                          its reciprocal sum : 1
+                          
+exploration rate is now 0.10
+successful
+
+                      A desired partition is found at 2-th generation
+                      found partition is
+                      [168, 56, 30, 20, 12, 7, 6, 2]
+                      weight : 301
+                      reciprocal sum of parts : 1
+                          
+                      
+done.
