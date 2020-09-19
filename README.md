@@ -1,7 +1,7 @@
 # GP_finder
 
-This is an algorithm based on a generic algorithm and reinforced learning. 
-For given n, it tries to find an integer partition such that the reciprocal sum of parts equals one.
+This is an algorithm based on a generic algorithm and a reinforced learning. 
+For a given positive integer n, it tries to find an integer partition such that the reciprocal sum of parts equals one.
 
 For example, 
 4 = 2+2
